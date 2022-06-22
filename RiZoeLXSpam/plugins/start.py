@@ -20,11 +20,11 @@ Riz_Button = [
                
 RizX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DNHxHELL")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/FURIOUS_EMPIRE"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/TFN_CHAT")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/MrRizoel/SpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/ITZRAJOP/SpamBot")
         ]
         ]
         
