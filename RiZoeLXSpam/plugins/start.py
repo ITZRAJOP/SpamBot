@@ -11,7 +11,7 @@ RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5e
 
 Riz_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/DNHxHELL")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/TFN_CHAT")
         ],
         [
         Button.inline("• ᴄᴍᴅs •", data="help_back")
@@ -52,7 +52,7 @@ async def start(event):
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
        ownermsg = f"**Hi Master, Its me {bot_id}, Your Spam Bot !! \n\n Click Below Buttons For help**"
-       usermsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       usermsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**ᴏᴜʀ ᴄʜᴀɴɴᴇʟ [ᴊᴏɪɴ](https://t.me/FURIOUS_EMPIRE)**"
        if event.sender_id == OWNER_ID:
             await event.client.send_file(TheRiZoeL,
                   RIZ_IMG,
